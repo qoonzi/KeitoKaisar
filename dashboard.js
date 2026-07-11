@@ -150,7 +150,7 @@ new Date(
 
 const endDate =
 new Date(
-"2026-06-12T00:00:00"
+"2026-07-12T00:00:00"
 );
 
 function updateCounter(){
